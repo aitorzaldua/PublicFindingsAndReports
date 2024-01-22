@@ -3,7 +3,7 @@
 1. Vulnerabilities discovered by Aitor Zaldua.
 2. Follow the links to view the original code and reported Vulnerabilities.
 3. Current rank on the Codehawks Contest platform by XP: 21 out of 874
-4. 13 HIGH - 1 MEDIUM - 1 LOW
+4. 13 HIGH - 1 MEDIUM - 1 LOW (The Standard and Horse Store in judging period)
 
 [CHECK A VULNERABILITY REPORT EXAMPLE](https://github.com/aitorzaldua/Private_Audit_Reports/blob/main/20231025%20-%20Puppy%20Raffle%20-%20Aitor.pdf)
 
