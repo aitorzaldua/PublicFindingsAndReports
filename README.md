@@ -1,67 +1,54 @@
-## Foundry
+## Public Folder of Vulnerabilities and Findings
 
-**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
+1. Vulnerabilities discovered by Aitor Zaldua.
+2. Follow the links to view the original code and reported Vulnerabilities.
+3. Current rank on the Codehawks Contest platform by XP: 21 out of 874
+4. 13 HIGH - 1 MEDIUM - 1 LOW
 
-Foundry consists of:
+### 1. Password Store
 
--   **Forge**: Ethereum testing framework (like Truffle, Hardhat and DappTools).
--   **Cast**: Swiss army knife for interacting with EVM smart contracts, sending transactions and getting chain data.
--   **Anvil**: Local Ethereum node, akin to Ganache, Hardhat Network.
--   **Chisel**: Fast, utilitarian, and verbose solidity REPL.
+- [1.1. Github Report](https://github.com/Cyfrin/2023-10-PasswordStore)
 
-## Documentation
+- [1.2 Vulnerabilities](https://github.com/Cyfrin/2023-10-PasswordStore)
 
-https://book.getfoundry.sh/
+### 2. Puppy Raffle
 
-## Usage
+- [1.1. Github Report](https://github.com/Cyfrin/2023-10-PasswordStore)
 
-### Build
+- [1.2 Vulnerabilities](https://github.com/Cyfrin/2023-10-PasswordStore)
 
-```shell
-$ forge build
-```
+### 3. Thunder Loan
 
-### Test
+- [1.1. Github Report](https://github.com/Cyfrin/2023-10-PasswordStore)
 
-```shell
-$ forge test
-```
+- [1.2 Vulnerabilities](https://github.com/Cyfrin/2023-10-PasswordStore)
 
-### Format
+### 4. Boss Bridge
 
-```shell
-$ forge fmt
-```
+- [1.1. Github Report](https://github.com/Cyfrin/2023-10-PasswordStore)
 
-### Gas Snapshots
+- [1.2 Vulnerabilities](https://github.com/Cyfrin/2023-10-PasswordStore)
 
-```shell
-$ forge snapshot
-```
+### 5. Santa´s List
 
-### Anvil
+- [1.1. Github Report](https://github.com/Cyfrin/2023-10-PasswordStore)
 
-```shell
-$ anvil
-```
+- [1.2 Vulnerabilities](https://github.com/Cyfrin/2023-10-PasswordStore)
 
-### Deploy
+### 6. Voting Both
 
-```shell
-$ forge script script/Counter.s.sol:CounterScript --rpc-url <your_rpc_url> --private-key <your_private_key>
-```
+- [1.1. Github Report](https://github.com/Cyfrin/2023-10-PasswordStore)
 
-### Cast
+- [1.2 Vulnerabilities](https://github.com/Cyfrin/2023-10-PasswordStore)
 
-```shell
-$ cast <subcommand>
-```
+### 7. The Standard
 
-### Help
+- [1.1. Github Report](https://github.com/Cyfrin/2023-10-PasswordStore)
 
-```shell
-$ forge --help
-$ anvil --help
-$ cast --help
-```
-# PublicFindingsAndReports
+- [1.2 Vulnerabilities](https://github.com/Cyfrin/2023-10-PasswordStore)
+
+### 8. Horse Store
+
+- [1.1. Github Report](https://github.com/Cyfrin/2023-10-PasswordStore)
+
+- [1.2 Vulnerabilities](https://github.com/Cyfrin/2023-10-PasswordStore)
